@@ -1,0 +1,7 @@
+{
+  "name": "PocBiometrics",
+  "displayName": "PocBiometrics",
+  "infoPlist": {
+    "NSFaceIDUsageDescription": "This app uses the face id to authenticate instead of using username and password."
+  }
+}
