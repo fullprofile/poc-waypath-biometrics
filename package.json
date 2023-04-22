@@ -15,7 +15,7 @@
     "react": "17.0.2",
     "react-native": "0.65.1",
     "react-native-biometrics": "^2.1.4",
-    "react-native-unimodules": "^0.14.8"
+    "react-native-unimodules": "^0.15.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
